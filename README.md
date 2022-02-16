@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs, ExpressJs**
 
-- 👨‍💻 All of my projects are available at [jeswanth.netlify.com](jeswanth.netlify.com)
+- 👨‍💻 All of my projects are available at [jeswanthv.vercel.app](jeswanthv.vercel.app)
 
 - 💬 Ask me about **react,nextjs,javascript,html,css,c++**
 
