@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jeswanth Vadlamudi</h1>
-<h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **NextJs, ExpressJs**
+- 🌱 I’m actively learning **AWS**
 
 - 👨‍💻 All of my projects are available at [jeswanthv.vercel.app](https://jeswanthv.vercel.app/)
 
-- 💬 Ask me about **react,nextjs,javascript,html,css,c++**
-
-- 📫 How to reach me **jeswanthv001@gmail.com**
+- 📫 How to reach me **jeswanthv01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
