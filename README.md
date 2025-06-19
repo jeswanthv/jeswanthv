@@ -17,6 +17,6 @@ I'm a passionate Software Engineer with experience building scalable backend sys
 - Clean code, DevOps, and system design
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/jeswanthvadlamudi](https://www.linkedin.com/in/jeswanthvadlamudi)
-- **Portfolio:** [jeswanth.dev](https://jeswanth.dev) *(update if available)*
-- **Email:** vadlamudijeswanth@gmail.com
+- **LinkedIn:** [linkedin.com/in/jeswanthvadlamudi](https://www.linkedin.com/in/jeswanthv)
+- **Portfolio:** [jeswanth.dev](https://jeswanthv.vercel.app)
+- **Email:** jeswanthv01@gmail.com
