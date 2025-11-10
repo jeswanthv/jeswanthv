@@ -20,3 +20,5 @@ I'm a passionate Software Engineer with experience building scalable backend sys
 - **LinkedIn:** [linkedin.com/in/jeswanthvadlamudi](https://www.linkedin.com/in/jeswanthv)
 - **Portfolio:** [jeswanth.dev](https://jeswanthv.vercel.app)
 - **Email:** jeswanthv01@gmail.com
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jeswanthvadlamudi?theme=dark&font=Rubik&ext=contest)
